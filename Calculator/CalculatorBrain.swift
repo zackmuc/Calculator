@@ -48,7 +48,6 @@ class CalculatorBrain
                 pending = PendingBinaryOperationInfo(binaryFunction: function, firstOperand: accumulator)
             case .Equals:
                 executePendingBinaryOperation()
-
             }
             
         }
