@@ -108,6 +108,7 @@
 					D0BE33B21CD3841600651EBC = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 4Y73TU94F5;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -271,6 +272,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = work.auerbacher.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -285,6 +287,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = work.auerbacher.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
